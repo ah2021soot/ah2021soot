@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ah2021soot
-- 👀 I’m interested in kotlin
-- 🌱 I’m currently learning kotlin program
+- 👀 I’m interested in kotlin && kotlin
+- 🌱 I’m currently learning kotlin && java program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
